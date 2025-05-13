@@ -5,30 +5,40 @@ title: "Day 0 - Planning"
 
 ### Project Focus
 
-[What kind of project are you planning to build? Give it a working title and briefly describe what it is (e.g., a game, simulation, interactive story). What makes it interesting or challenging?]
+[I want to create a graphical user interface for playing Sudoku. The goal is to create an interactive 9x9 Sudoku grid where users can input numbers, get visual feedback, check if their solution is correct, and possibly even auto-solve or get hints. My title will be User Interface Sudoku and will allow players to choose between easy, normal, and hard.
 
 ---
 
 ### Why This Project 
 
-[What drew you to this idea? How does it connect to something you’re interested in—whether in or outside of class? Why is this the right project for *you* to work on right *now*?]
-
+This project combines multiple topics we've covered in the course, and I've always like sudoku since a young age. Sudoku is a well-known puzzle game , and building a playable version would require me to challenge myself, while diving into the world of creating both user interface designs and algorithmic checks, making it a great practical application for myself. I chose this idea because I felt it was fun, and being able to create a game using the code I learned allows me to actually make use of it, rather than it keeping it stored in my brain.
 ---
 
 ### What I Want to Learn
 
-[What programming concepts do you want to strengthen through this project (e.g., functions, conditionals, loops, data structures)?  
-Beyond coding, what personal or creative skills are you hoping to build—like debugging, problem solving, design, or perseverance?]
+I want to strengthen my concepts of functions and potential loops; while practicing with handling multiple functions. I'm hoping to build some good problem solving skills, that can be carried into my every day life, along with perserverance aswell, as I'm realizing now that my project will be harder than I thought.
 
 
 
 ### My Approach 
 
-[How do you plan to structure your time over the next two weeks? What will you focus on first? What will you prioritize later?  
-What does “done enough” look like to you—and how will you decide when to stop polishing?]
+I plan to track my progress like this, but the actual times in which I get these things done may vary.: 
+Day 1–3: Design and set up the basic GUI layout like the grid and input fields.
+
+Day 4: Implement input validation and number validation.
+
+Day 5–6: Add correctness to my puzzle, ensuring there's no errors in the base of my design.
+
+Day 7–9: Implement optional features like hints or auto-solver.
+
+Day 10–11: Add finishing touches like the menus, error messages, and instructions.
+
+Day 12–13: Test thoroughly and fix bugs.
+
+Day 14: Prepare presentation and finish implementation.
 
 ---
 
 ### What's Next
 
-[What do you plan to tackle in the next stage of your project?]
+I plan to actually finish creating an interactive Sudoku game, and in doing so actually feel challenged over these next few weeks.
