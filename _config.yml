@@ -3,13 +3,12 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Bj Allanah
 
 # Short bio or description (displayed in the header)
-description: [change this]
-
+description: Uni High Student
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://bjallanah.github.io//images/sudoku.png
 
 #
 # Flags below are optional
@@ -19,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # you only have to change your email.
 footer-links:
   dribbble: 
-  email: yourmail@mail.com
+  email: ngozima2@illinois.edu
   facebook:
   flickr:
   rss: # just type anything here for a working RSS icon
@@ -27,7 +26,7 @@ footer-links:
 # Your website URL (e.g. http://luxvijayan.github.io)
 # Used for Sitemap.xml and your RSS feed
 # Your github username.github.io as seen above.
-url:
+url: http://bjallanah.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
