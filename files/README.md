@@ -7,6 +7,7 @@ To access the Google Colab:
 * Enjoy!
 
 To access the .py file:
+* Install [Python](https://www.python.org/) on your computer.
 * Download the file [sudoku.py](https://github.com/BjAllanah/bjallanah.github.io/files/sudoku.py)
 * Select the desired difficulty.
 * Enjoy!
