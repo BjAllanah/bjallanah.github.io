@@ -6,8 +6,14 @@ To access the Google Colab:
 * Go to runtime and select run all code cells
 * Enjoy!
 
-To access the .py file:
-* Install [Python](https://www.python.org/) on your computer.
-* Download the file [sudoku.py](https://github.com/BjAllanah/bjallanah.github.io/files/sudoku.py)
-* Select the desired difficulty.
-* Enjoy!
+To access the README.md file:
+* Locate the blog site
+* click on the link provided.
+
+To access my blogs
+* Scroll through each of my posts, to see the progress I've made
+* Another way to do so:
+* Click on my website
+* Click on My Blog
+* Scroll through each day.
+* Enjoy the process!
